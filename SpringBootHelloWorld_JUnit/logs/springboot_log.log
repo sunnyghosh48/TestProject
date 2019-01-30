@@ -1,0 +1,4 @@
+[INFO ] 2019-01-31 02:03:57.688 [main] ContextLoader - Root WebApplicationContext: initialization completed in 2236 ms
+[INFO ] 2019-01-31 02:04:49.555 [main] ContextLoader - Root WebApplicationContext: initialization completed in 885 ms
+[INFO ] 2019-01-31 02:05:38.678 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-01-31 02:05:38.684 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 6 ms
